@@ -1,8 +1,8 @@
 
-Authors: Florian Jupe
-Title: The even better paper ever 
+Authors: Florian Jupe, John Wayne
+Title: The even better paper ever than everer
 
-Introduction: Intro Intro Intro
-Data:Not yet added.
-Analysis:Not carried out yet.
+Introduction: Intro Intro Intro Data:Not yet added. 
+Analysis:Not carried out yet, John is too lazy. 
 Conclusion:Easily Nobel prize
+
