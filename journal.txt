@@ -1,8 +1,7 @@
 
-Authors: Florian Jupe, Anna Taylor
-Title: The even better paper ever that is not so good anymore
-
+Authors: Florian Jupe, JOhn Wayne, Anna Taylor
 Introduction: Intro Intro
-Data:Not yet added. Some data on bullshit added.
-Analysis:Not carried out yet.
-Conclusion:Easily Nobel prize
+Data: Not yet added. Some data on bullshit added.
+Analysis: Not carried out yet, John is too lazy. 
+Conclusion: Easily Nobel prize
+
