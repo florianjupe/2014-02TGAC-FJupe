@@ -1,8 +1,8 @@
 
-Authors:
-Title: 
+Authors: Florian Jupe
+Title: The even better paper ever 
 
-Introduction:
-Data:
-Analysis:
+Introduction: Intro Intro Intro
+Data:Not yet added.
+Analysis:Not carried out yet.
 Conclusion:
